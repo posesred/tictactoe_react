@@ -1,3 +1,9 @@
+/*
+* Tic tac toe single web no websockets or anything just static
+* Next is to work on the backend to get two players this was just for fun
+*
+*
+* */
 import './App.css';
 import {useState} from "react";
 
